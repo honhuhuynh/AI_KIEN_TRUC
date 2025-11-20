@@ -1,0 +1,5 @@
+{
+  "name": "AI Render Kiến Trúc 2.0 06/11",
+  "description": "An AI-powered web application to transform architectural sketches into photorealistic renders. Users can upload an image, describe their vision, fine-tune options, and generate stunning visualizations.",
+  "requestFramePermissions": []
+}
